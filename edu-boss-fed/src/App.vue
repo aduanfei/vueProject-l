@@ -1,9 +1,10 @@
 <template>
   <div id="app">
-    <nav>
+    <h1>拉钩教育</h1>
+    <!-- <nav>
       <router-link to="/">Home</router-link> |
       <router-link to="/about">About</router-link>
-    </nav>
+    </nav> -->
     <router-view/>
   </div>
 </template>
